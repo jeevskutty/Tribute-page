@@ -1,0 +1,19 @@
+
+    h1{
+    text-align: center;
+}
+
+body 
+   {
+   background-color: rgb(243, 229, 171);
+   text-align: center;
+}
+.author{
+    color: rgb(241, 33, 75);
+    font-size: medium;
+    margin: auto;
+}
+.time{
+    text-align:justify;      
+    background-color: rgb(235, 191, 80);    
+}
